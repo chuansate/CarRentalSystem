@@ -1,0 +1,44 @@
+Mustard2001,Honda,CR-V,Tue Dec 13 00:00:00 SGT 2022,5,Mon Oct 17 11:37:05 SGT 2022,850
+Mustard2001,Honda,HD-200,Mon Oct 31 11:46:41 SGT 2022,10,Mon Oct 17 11:46:55 SGT 2022,2000
+Mustard2001,Tesla,ProXtes,Tue Nov 08 11:54:13 SGT 2022,5,Mon Oct 17 11:54:29 SGT 2022,1000
+LimKelvin,Tesla,T38,Tue Oct 25 00:00:00 SGT 2022,6,Mon Oct 17 11:56:10 SGT 2022,2220
+LimKelvin,Suzuki,suz10,Thu Feb 23 11:56:54 SGT 2023,12,Mon Oct 17 11:57:13 SGT 2022,2280
+Mustard2001,Tesla,X10,Mon Jan 02 11:58:34 SGT 2023,3,Mon Oct 17 11:58:58 SGT 2022,630
+Mustard2001,Tesla,T38,Tue Jan 24 00:00:00 SGT 2023,2,Mon Oct 17 12:00:35 SGT 2022,740
+Mustard2001,Kancil,kenari2,Mon Feb 20 21:28:40 SGT 2023,15,Mon Oct 17 21:29:00 SGT 2022,2400
+LimKelvin,Subaru,starXI,Tue Mar 14 21:30:24 SGT 2023,5,Mon Oct 17 21:30:46 SGT 2022,1175
+LimKelvin,Honda,HX1,Thu Apr 13 00:00:00 SGT 2023,3,Mon Oct 17 21:31:40 SGT 2022,450
+LimKelvin,Proton,Pro100,Tue May 09 21:32:54 SGT 2023,6,Mon Oct 17 21:33:11 SGT 2022,1140
+Low000221,Honda,HFly20,Wed Jun 07 21:35:22 SGT 2023,11,Mon Oct 17 21:35:43 SGT 2022,2420
+Low000221,Proton,Pro92,Wed Jul 05 21:36:13 SGT 2023,5,Mon Oct 17 21:36:28 SGT 2022,600
+Bob99991,Suzuki,sk100,Tue Aug 01 00:00:00 SGT 2023,12,Mon Oct 17 21:37:46 SGT 2022,2520
+Bob99991,Proton,ER,Mon Sep 12 21:38:03 SGT 2022,3,Mon Oct 17 21:38:16 SGT 2022,270
+Bob99991,Kancil,kenari2,Mon Oct 02 21:38:41 SGT 2023,10,Mon Oct 17 21:38:53 SGT 2022,1600
+Bob99991,Perodua,tiger2X,Wed Nov 02 21:39:17 SGT 2022,9,Mon Oct 17 21:39:29 SGT 2022,1935
+Bob99991,Volkswagen,VFLY,Tue Dec 12 21:39:47 SGT 2023,5,Mon Oct 17 21:40:03 SGT 2022,1500
+xxx,Promotion,Promotion will be held on Oct 20 00:00:00 SGT 2022.<br>Rental fee per day of every car will have a discount of 10%.<br>Promotion lasts until Oct 25 00:00:00 SGT 2022.,-,-,Tue Oct 18 21:53:02 SGT 2022,-
+xxx,Maintenance Break on Oct 19 SGT 2022,The system will be having maintainance from 10:00:00 SGT to 12:00:00 SGT.<br>Every user is not allowed to login to the system.<br>Sorry for the incovenience caused.,-,-,Tue Oct 18 22:13:51 SGT 2022,-
+xxx,Lucky Draw` starting on 25 Oct 2022,Each booking which costs more than RM1000 will earn a chance of lucky draw.<br>The event will end on 1 Nov 2022` be aware!<br>For info regarding the prize pool` please refer to our website.,-,-,Fri Oct 21 22:16:51 SGT 2022,-
+xxx,Share to get promotion!,Share this application to your friends and send the screenshots to our website!,-,-,Fri Oct 21 22:18:59 SGT 2022,-
+Jon_epic1902,Tesla,T38,Fri Dec 23 16:22:27 SGT 2022,10,Mon Nov 14 16:22:48 SGT 2022,3700
+Jon_epic1902,Volkswagen,VFLY,Wed Nov 30 00:00:00 SGT 2022,5,Mon Nov 14 16:24:37 SGT 2022,1500
+Ali_best,Proton,ER,Tue Nov 22 16:26:05 SGT 2022,7,Mon Nov 14 16:26:30 SGT 2022,630
+Ali_best,Proton,Waja,Wed Sep 13 00:00:00 SGT 2023,2,Sun Dec 04 12:16:05 SGT 2022,100
+Jon_epic1902,Tesla,T38,Wed Dec 14 00:00:00 SGT 2022,9,Sun Dec 04 17:00:10 SGT 2022,3330
+DavidLim,Proton,Waja,Thu Mar 09 17:04:03 SGT 2023,2,Sun Dec 04 17:04:19 SGT 2022,100
+DavidLim,Bufori,La Joya,Tue Feb 07 00:00:00 SGT 2023,10,Sun Dec 04 17:16:53 SGT 2022,1200
+DavidLim,Honda,HFly20,Thu Jun 01 00:00:00 SGT 2023,8,Sun Dec 04 17:19:30 SGT 2022,1760
+DavidLim,Subaru,p1,Fri Dec 01 17:22:32 SGT 2023,10,Sun Dec 04 17:22:44 SGT 2022,2010
+DavidLim,Proton,T90,Sun Dec 03 00:00:00 SGT 2023,10,Sun Dec 04 17:29:01 SGT 2022,4000
+DavidLim,Tesla,Tcord,Thu Jun 08 17:34:29 SGT 2023,10,Sun Dec 04 17:34:42 SGT 2022,2800
+DavidLim,Bufori,BBf1,Mon Jul 03 17:39:23 SGT 2023,12,Sun Dec 04 17:39:36 SGT 2022,1200
+LohHao0192,Bufori,La Joya,Mon Jul 03 17:55:32 SGT 2023,2,Sun Dec 04 17:55:43 SGT 2022,240
+Mustard2001,Honda,Civic,Wed Jun 07 00:00:00 SGT 2023,10,Sun Dec 04 18:17:25 SGT 2022,1500
+Bob99991,Perodua,Wira,Thu Nov 02 09:17:02 SGT 2023,10,Mon Dec 05 09:17:18 SGT 2022,1500
+Mustard2001,Proton,Inpsira,Wed Dec 07 17:08:10 SGT 2022,10,Thu Dec 08 17:08:30 SGT 2022,650
+Mustard2001,Proton,Inpsira,Fri Dec 16 17:21:33 SGT 2022,12,Thu Dec 08 17:21:45 SGT 2022,780
+Mustard2001,Honda,Han78,Thu Dec 15 00:00:00 SGT 2022,11,Thu Dec 08 17:24:01 SGT 2022,1100
+Mustard2001,Proton,ERX2,Thu Jun 01 00:00:00 SGT 2023,10,Thu Dec 15 21:02:20 SGT 2022,1000
+xxx,Maintenance Break on 20 Dec 2022,Please be aware that you are not allowed to access to the system on that day.<br>We are currently upgrading some of the features to provide best user experience.<br>Stay tuned!,-,-,Fri Dec 16 12:10:07 SGT 2022,-
+Jon_epic1902,Bufori,La Joya,Tue Jan 03 12:21:58 SGT 2023,5,Fri Dec 16 12:22:15 SGT 2022,600
+xxx,Maintenance Break on 27 Dec,xxxxxxxxx,-,-,Mon Dec 26 21:24:42 SGT 2022,-
